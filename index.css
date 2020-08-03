@@ -1,0 +1,44 @@
+.new {
+    background-color: lightsalmon;
+    color: red;
+    padding-left: 10px;
+    padding-right: 10px;
+    border-radius: 3px;
+}
+
+.thing {
+    font-family: 'Mulish', sans-serif;
+    margin: 100px 100px;
+}
+
+.cards img {
+    width: 330px;
+    border-radius: 10px;
+}
+
+.icon {
+    display: flex;
+}
+
+.bold {
+    font-weight: bolder;
+}
+
+.cards {
+    display: flex;
+    justify-content: space-between;
+    margin-top: 50px;
+}
+
+.text {
+    color: #666361;
+}
+
+.icon {
+    margin-top: 40px;
+}
+
+h1 {
+    margin-bottom: 40px;
+    font-weight: bolder;
+}
